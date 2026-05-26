@@ -1,0 +1,6 @@
+{
+  "name": "VALAY",
+  "description": "AI-powered lightweight offline architectural floor plan and 3D concept generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
